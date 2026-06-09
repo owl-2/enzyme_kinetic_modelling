@@ -35,6 +35,8 @@ The fitted model accurately captured enzyme saturation behavior.
 * Km ≈ 4 suggests half-maximal velocity is reached at approximately 4 substrate units.
 * The high R² value demonstrates excellent agreement between the model and experimental observations.
 
+![Michaelis-Menten Fit](image/michaelis_menten_fit.png)
+
 ## Technologies Used
 
 * Python
